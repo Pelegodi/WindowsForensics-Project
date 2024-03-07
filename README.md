@@ -1,1 +1,1 @@
-# WindowsForensics-Project
+Windows Forensics The primary goal of this project is to Explore a memory file or image file with a tools like:Binwalk,Strings,Foremost,Bulk extractor and Volatility and saved the m all into a new directory file
